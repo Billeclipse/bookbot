@@ -1,2 +1,2 @@
 # bookbot
-Test project from boot.dev, a learning platform 
+BookBot is my first project!
